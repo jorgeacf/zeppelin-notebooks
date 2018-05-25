@@ -1,2 +1,3 @@
-# zeppelin-notes
-This repository contains my Zeppelin Notes
+# Zeppelin Notebooks
+
+This repository contains my Zeppelin Notebooks.
