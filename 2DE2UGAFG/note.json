@@ -39,9 +39,9 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%md\n",
+      "text": "%md\n\nJorge",
       "user": "anonymous",
-      "dateUpdated": "May 27, 2018 11:18:06 PM",
+      "dateUpdated": "May 27, 2018 11:21:03 PM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
@@ -50,17 +50,46 @@
           "language": "markdown",
           "editOnDblClick": true
         },
-        "editorMode": "ace/mode/markdown"
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
       },
       "settings": {
         "params": {},
         "forms": {}
       },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003cp\u003eJorge\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
       "apps": [],
       "jobName": "paragraph_1527462921018_1826098273",
       "id": "20180527-231521_1409735610",
       "dateCreated": "May 27, 2018 11:15:21 PM",
+      "dateStarted": "May 27, 2018 11:21:03 PM",
+      "dateFinished": "May 27, 2018 11:21:03 PM",
       "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n",
+      "user": "anonymous",
+      "dateUpdated": "May 27, 2018 11:21:03 PM",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1527463263573_-1801053846",
+      "id": "20180527-232103_771319296",
+      "dateCreated": "May 27, 2018 11:21:03 PM",
+      "status": "READY",
       "progressUpdateIntervalMs": 500
     }
   ],
