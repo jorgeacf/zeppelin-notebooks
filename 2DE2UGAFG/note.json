@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "%md\n\n### Title",
+      "text": "%md\n\n### Title of this Notebook",
       "user": "anonymous",
-      "dateUpdated": "May 27, 2018 11:15:34 PM",
+      "dateUpdated": "May 27, 2018 11:18:10 PM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
@@ -25,7 +25,7 @@
         "msg": [
           {
             "type": "HTML",
-            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003eTitle\u003c/h3\u003e\n\u003c/div\u003e"
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch3\u003eTitle of this Notebook\u003c/h3\u003e\n\u003c/div\u003e"
           }
         ]
       },
@@ -33,16 +33,25 @@
       "jobName": "paragraph_1527462903769_402481370",
       "id": "20180527-231503_1776598203",
       "dateCreated": "May 27, 2018 11:15:03 PM",
-      "dateStarted": "May 27, 2018 11:15:21 PM",
-      "dateFinished": "May 27, 2018 11:15:22 PM",
+      "dateStarted": "May 27, 2018 11:18:10 PM",
+      "dateFinished": "May 27, 2018 11:18:10 PM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "%md\n",
       "user": "anonymous",
-      "dateUpdated": "May 27, 2018 11:15:21 PM",
-      "config": {},
+      "dateUpdated": "May 27, 2018 11:18:06 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown"
+      },
       "settings": {
         "params": {},
         "forms": {}
@@ -51,7 +60,7 @@
       "jobName": "paragraph_1527462921018_1826098273",
       "id": "20180527-231521_1409735610",
       "dateCreated": "May 27, 2018 11:15:21 PM",
-      "status": "READY",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     }
   ],
