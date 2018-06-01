@@ -39,7 +39,7 @@
     {
       "text": "%sh\n\ncd notebook;\n\ngit log;",
       "user": "anonymous",
-      "dateUpdated": "Jun 1, 2018 9:57:15 AM",
+      "dateUpdated": "Jun 1, 2018 11:29:07 AM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
@@ -59,7 +59,7 @@
         "msg": [
           {
             "type": "TEXT",
-            "data": "commit f9849f6b7392315222847acaf61b34b2ee7a532e\nAuthor: zeppelin \u003czeppelin@4b8eb2e81bbe\u003e\nDate:   Fri Jun 1 08:36:37 2018 +0000\n\n    First commit...\n\ncommit 8da30ca5eab3a586daea9d8261cbad0afad51576\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:47:44 2018 +0000\n\n    Remove dummy notebooks\n\ncommit 021fc425b713d962e8ae660689a48d1cfb8606b5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:45:22 2018 +0000\n\n    Test hooks\n\ncommit 2704ef9e4c7a9135541200288e3d5caeaf5144e5\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:21:18 2018 +0000\n\n    Testing hook\n\ncommit 51060d04bf53d5b41663ee1aeadd9762de30e338\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:18:36 2018 +0000\n\n    Change on title of the notebook\n\ncommit 65b97093b239b273d30e255caebf143f3c47df56\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:15:50 2018 +0000\n\n    Test\n\ncommit 0495e353ff5eca35f3c5a6d3f024b3ce74c9589d\nAuthor: zeppelin \u003czeppelin@1148ddeb8d3e\u003e\nDate:   Sun May 27 22:57:53 2018 +0000\n\n    First Version\n\ncommit fd8aa2c03d2521ade0b3cb7dd2548a9c3ffd94a5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:20:14 2018 +0100\n\n    Changed post-commit hook to push to develop\n\ncommit ee4d8e0817bd5831da67e58d342dcfa5df83eeaa\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:18:14 2018 +0100\n\n    Running test\n\ncommit 9f4ad771dc933b68bdc09e1f0295e6625b5e75b4\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:14:10 2018 +0100\n\n    Added hooks directory and post-commit hook\n\ncommit 393de6d15ea2329ac2d97202cc3902cecf634225\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri May 25 17:02:05 2018 +0000\n\n    Changes in README.md\n\ncommit b29232bc81539756aa301946411cfd6596afecd9\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Wed May 23 12:08:46 2018 +0100\n\n    Initial commit\n"
+            "data": "commit 3f7f85efa28dce68c24b3b696496294c1e843481\nAuthor: zeppelin \u003czeppelin@ea2164184c26\u003e\nDate:   Fri Jun 1 09:57:33 2018 +0000\n\n    Second commit...\n\ncommit f9849f6b7392315222847acaf61b34b2ee7a532e\nAuthor: zeppelin \u003czeppelin@4b8eb2e81bbe\u003e\nDate:   Fri Jun 1 08:36:37 2018 +0000\n\n    First commit...\n\ncommit 8da30ca5eab3a586daea9d8261cbad0afad51576\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:47:44 2018 +0000\n\n    Remove dummy notebooks\n\ncommit 021fc425b713d962e8ae660689a48d1cfb8606b5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:45:22 2018 +0000\n\n    Test hooks\n\ncommit 2704ef9e4c7a9135541200288e3d5caeaf5144e5\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:21:18 2018 +0000\n\n    Testing hook\n\ncommit 51060d04bf53d5b41663ee1aeadd9762de30e338\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:18:36 2018 +0000\n\n    Change on title of the notebook\n\ncommit 65b97093b239b273d30e255caebf143f3c47df56\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:15:50 2018 +0000\n\n    Test\n\ncommit 0495e353ff5eca35f3c5a6d3f024b3ce74c9589d\nAuthor: zeppelin \u003czeppelin@1148ddeb8d3e\u003e\nDate:   Sun May 27 22:57:53 2018 +0000\n\n    First Version\n\ncommit fd8aa2c03d2521ade0b3cb7dd2548a9c3ffd94a5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:20:14 2018 +0100\n\n    Changed post-commit hook to push to develop\n\ncommit ee4d8e0817bd5831da67e58d342dcfa5df83eeaa\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:18:14 2018 +0100\n\n    Running test\n\ncommit 9f4ad771dc933b68bdc09e1f0295e6625b5e75b4\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:14:10 2018 +0100\n\n    Added hooks directory and post-commit hook\n\ncommit 393de6d15ea2329ac2d97202cc3902cecf634225\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri May 25 17:02:05 2018 +0000\n\n    Changes in README.md\n\ncommit b29232bc81539756aa301946411cfd6596afecd9\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Wed May 23 12:08:46 2018 +0100\n\n    Initial commit\n"
           }
         ]
       },
@@ -67,8 +67,8 @@
       "jobName": "paragraph_1527842140495_-1283385990",
       "id": "20180601-083540_38340132",
       "dateCreated": "Jun 1, 2018 8:35:40 AM",
-      "dateStarted": "Jun 1, 2018 9:57:15 AM",
-      "dateFinished": "Jun 1, 2018 9:57:15 AM",
+      "dateStarted": "Jun 1, 2018 11:29:07 AM",
+      "dateFinished": "Jun 1, 2018 11:29:07 AM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
