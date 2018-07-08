@@ -3,7 +3,7 @@
     {
       "text": "%sh\n\nls -al notebook",
       "user": "anonymous",
-      "dateUpdated": "Jun 14, 2018 10:35:36 PM",
+      "dateUpdated": "Jul 8, 2018 5:16:01 PM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
@@ -23,7 +23,7 @@
         "msg": [
           {
             "type": "TEXT",
-            "data": "total 68\ndrwxr-xr-x. 6 zeppelin zeppelin  4096 Jun 14 22:33 .\ndrwxr-xr-x. 1 zeppelin zeppelin  4096 Jun 14 22:34 ..\ndrwxr-xr-x. 8 zeppelin zeppelin  4096 Jun 14 22:33 .git\ndrwxr-xr-x. 2 zeppelin zeppelin  4096 Jun 14 22:35 2DE73U7QE\ndrwxr-xr-x. 2 zeppelin zeppelin  4096 Jun 14 22:33 2DFU2ADM9\n-rw-r--r--. 1 zeppelin zeppelin 35147 Jun 14 22:33 LICENSE\n-rw-r--r--. 1 zeppelin zeppelin    70 Jun 14 22:33 README.md\ndrwxr-xr-x. 2 zeppelin zeppelin  4096 Jun 14 22:33 hooks\n"
+            "data": "total 68\ndrwxr-xr-x. 6 zeppelin zeppelin  4096 Jul  3 19:52 .\ndrwxr-xr-x. 1 zeppelin zeppelin  4096 Jul  3 19:53 ..\ndrwxr-xr-x. 8 zeppelin zeppelin  4096 Jul  3 19:52 .git\ndrwxr-xr-x. 2 zeppelin zeppelin  4096 Jul  8 17:16 2DE73U7QE\ndrwxr-xr-x. 2 zeppelin zeppelin  4096 Jul  3 19:52 2DFU2ADM9\n-rw-r--r--. 1 zeppelin zeppelin 35147 Jul  3 19:52 LICENSE\n-rw-r--r--. 1 zeppelin zeppelin    70 Jul  3 19:52 README.md\ndrwxr-xr-x. 2 zeppelin zeppelin  4096 Jul  3 19:52 hooks\n"
           }
         ]
       },
@@ -31,15 +31,15 @@
       "jobName": "paragraph_1527842127524_888121478",
       "id": "20180601-083527_1920725397",
       "dateCreated": "Jun 1, 2018 8:35:27 AM",
-      "dateStarted": "Jun 14, 2018 10:35:36 PM",
-      "dateFinished": "Jun 14, 2018 10:35:37 PM",
+      "dateStarted": "Jul 8, 2018 5:16:01 PM",
+      "dateFinished": "Jul 8, 2018 5:16:02 PM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "%sh\n\ncd notebook;\n\ngit log;",
       "user": "anonymous",
-      "dateUpdated": "Jun 14, 2018 10:35:42 PM",
+      "dateUpdated": "Jul 8, 2018 5:16:08 PM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
@@ -59,7 +59,7 @@
         "msg": [
           {
             "type": "TEXT",
-            "data": "commit 421f684c7020fc416df4b113c952908eb1d71987\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri Jun 1 12:54:05 2018 +0000\n\n    New note...\n\ncommit 3aab4a6db00f205b364a73be67db754846d080da\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri Jun 1 11:43:35 2018 +0000\n\n    Updated git user and email\n\ncommit 213909724a3b94370ab9e7ceab1410852f53bc52\nAuthor: zeppelin \u003czeppelin@ea2164184c26\u003e\nDate:   Fri Jun 1 11:29:30 2018 +0000\n\n    Another commit...\n\ncommit 3f7f85efa28dce68c24b3b696496294c1e843481\nAuthor: zeppelin \u003czeppelin@ea2164184c26\u003e\nDate:   Fri Jun 1 09:57:33 2018 +0000\n\n    Second commit...\n\ncommit f9849f6b7392315222847acaf61b34b2ee7a532e\nAuthor: zeppelin \u003czeppelin@4b8eb2e81bbe\u003e\nDate:   Fri Jun 1 08:36:37 2018 +0000\n\n    First commit...\n\ncommit 8da30ca5eab3a586daea9d8261cbad0afad51576\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:47:44 2018 +0000\n\n    Remove dummy notebooks\n\ncommit 021fc425b713d962e8ae660689a48d1cfb8606b5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:45:22 2018 +0000\n\n    Test hooks\n\ncommit 2704ef9e4c7a9135541200288e3d5caeaf5144e5\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:21:18 2018 +0000\n\n    Testing hook\n\ncommit 51060d04bf53d5b41663ee1aeadd9762de30e338\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:18:36 2018 +0000\n\n    Change on title of the notebook\n\ncommit 65b97093b239b273d30e255caebf143f3c47df56\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:15:50 2018 +0000\n\n    Test\n\ncommit 0495e353ff5eca35f3c5a6d3f024b3ce74c9589d\nAuthor: zeppelin \u003czeppelin@1148ddeb8d3e\u003e\nDate:   Sun May 27 22:57:53 2018 +0000\n\n    First Version\n\ncommit fd8aa2c03d2521ade0b3cb7dd2548a9c3ffd94a5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:20:14 2018 +0100\n\n    Changed post-commit hook to push to develop\n\ncommit ee4d8e0817bd5831da67e58d342dcfa5df83eeaa\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:18:14 2018 +0100\n\n    Running test\n\ncommit 9f4ad771dc933b68bdc09e1f0295e6625b5e75b4\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:14:10 2018 +0100\n\n    Added hooks directory and post-commit hook\n\ncommit 393de6d15ea2329ac2d97202cc3902cecf634225\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri May 25 17:02:05 2018 +0000\n\n    Changes in README.md\n\ncommit b29232bc81539756aa301946411cfd6596afecd9\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Wed May 23 12:08:46 2018 +0100\n\n    Initial commit\n"
+            "data": "commit 0cab077493865fd21ad5feeefe28acff710163b0\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Thu Jun 14 22:36:31 2018 +0000\n\n    Update...\n\ncommit 421f684c7020fc416df4b113c952908eb1d71987\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri Jun 1 12:54:05 2018 +0000\n\n    New note...\n\ncommit 3aab4a6db00f205b364a73be67db754846d080da\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri Jun 1 11:43:35 2018 +0000\n\n    Updated git user and email\n\ncommit 213909724a3b94370ab9e7ceab1410852f53bc52\nAuthor: zeppelin \u003czeppelin@ea2164184c26\u003e\nDate:   Fri Jun 1 11:29:30 2018 +0000\n\n    Another commit...\n\ncommit 3f7f85efa28dce68c24b3b696496294c1e843481\nAuthor: zeppelin \u003czeppelin@ea2164184c26\u003e\nDate:   Fri Jun 1 09:57:33 2018 +0000\n\n    Second commit...\n\ncommit f9849f6b7392315222847acaf61b34b2ee7a532e\nAuthor: zeppelin \u003czeppelin@4b8eb2e81bbe\u003e\nDate:   Fri Jun 1 08:36:37 2018 +0000\n\n    First commit...\n\ncommit 8da30ca5eab3a586daea9d8261cbad0afad51576\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:47:44 2018 +0000\n\n    Remove dummy notebooks\n\ncommit 021fc425b713d962e8ae660689a48d1cfb8606b5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 23:45:22 2018 +0000\n\n    Test hooks\n\ncommit 2704ef9e4c7a9135541200288e3d5caeaf5144e5\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:21:18 2018 +0000\n\n    Testing hook\n\ncommit 51060d04bf53d5b41663ee1aeadd9762de30e338\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:18:36 2018 +0000\n\n    Change on title of the notebook\n\ncommit 65b97093b239b273d30e255caebf143f3c47df56\nAuthor: zeppelin \u003czeppelin@6fa90cd333f8\u003e\nDate:   Sun May 27 23:15:50 2018 +0000\n\n    Test\n\ncommit 0495e353ff5eca35f3c5a6d3f024b3ce74c9589d\nAuthor: zeppelin \u003czeppelin@1148ddeb8d3e\u003e\nDate:   Sun May 27 22:57:53 2018 +0000\n\n    First Version\n\ncommit fd8aa2c03d2521ade0b3cb7dd2548a9c3ffd94a5\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:20:14 2018 +0100\n\n    Changed post-commit hook to push to develop\n\ncommit ee4d8e0817bd5831da67e58d342dcfa5df83eeaa\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:18:14 2018 +0100\n\n    Running test\n\ncommit 9f4ad771dc933b68bdc09e1f0295e6625b5e75b4\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Sun May 27 19:14:10 2018 +0100\n\n    Added hooks directory and post-commit hook\n\ncommit 393de6d15ea2329ac2d97202cc3902cecf634225\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Fri May 25 17:02:05 2018 +0000\n\n    Changes in README.md\n\ncommit b29232bc81539756aa301946411cfd6596afecd9\nAuthor: Jorge Figueiredo \u003cjorgefigueiredo@outlook.com\u003e\nDate:   Wed May 23 12:08:46 2018 +0100\n\n    Initial commit\n"
           }
         ]
       },
@@ -67,24 +67,93 @@
       "jobName": "paragraph_1527842140495_-1283385990",
       "id": "20180601-083540_38340132",
       "dateCreated": "Jun 1, 2018 8:35:40 AM",
-      "dateStarted": "Jun 14, 2018 10:35:42 PM",
-      "dateFinished": "Jun 14, 2018 10:35:42 PM",
+      "dateStarted": "Jul 8, 2018 5:16:08 PM",
+      "dateFinished": "Jul 8, 2018 5:16:08 PM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%sh\n",
+      "text": "%mariadb\n\n#show databases;\n\nuse test_database;\n\n#CREATE TABLE t1 (a int DEFAULT (1+1), b int DEFAULT (a+1));\n#CREATE TABLE t2 (a bigint primary key DEFAULT UUID_SHORT());\n\nINSERT INTO t1 VALUES (1, 1);\n\n#DELETE FROM t1 WHERE a \u003d 1;\n\nSELECT * FROM t1;",
       "user": "anonymous",
-      "dateUpdated": "Jun 1, 2018 9:57:15 AM",
+      "dateUpdated": "Jul 8, 2018 5:28:12 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {
+          "5": {
+            "graph": {
+              "mode": "table",
+              "height": 300.0,
+              "optionOpen": false
+            },
+            "helium": {}
+          }
+        },
+        "editorSetting": {
+          "language": "sql",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/sql"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Query executed successfully. Affected rows : 0"
+          },
+          {
+            "type": "TEXT",
+            "data": "Query executed successfully. Affected rows : 0"
+          },
+          {
+            "type": "TEXT",
+            "data": "Query executed successfully. Affected rows : 0"
+          },
+          {
+            "type": "TEXT",
+            "data": "Query executed successfully. Affected rows : 0"
+          },
+          {
+            "type": "TEXT",
+            "data": "Query executed successfully. Affected rows : 1"
+          },
+          {
+            "type": "TEXT",
+            "data": "Query executed successfully. Affected rows : 0"
+          },
+          {
+            "type": "TABLE",
+            "data": "a\tb\n1\t1\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1527847035442_-912265363",
+      "id": "20180601-095715_1424062486",
+      "dateCreated": "Jun 1, 2018 9:57:15 AM",
+      "dateStarted": "Jul 8, 2018 5:28:12 PM",
+      "dateFinished": "Jul 8, 2018 5:28:12 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%mariadb\n",
+      "user": "anonymous",
+      "dateUpdated": "Jul 8, 2018 5:16:25 PM",
       "config": {},
       "settings": {
         "params": {},
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1527847035442_-912265363",
-      "id": "20180601-095715_1424062486",
-      "dateCreated": "Jun 1, 2018 9:57:15 AM",
+      "jobName": "paragraph_1531070185532_-1637659185",
+      "id": "20180708-171625_602119787",
+      "dateCreated": "Jul 8, 2018 5:16:25 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
@@ -92,25 +161,16 @@
   "name": "/Spark/Note1",
   "id": "2DE73U7QE",
   "angularObjects": {
-    "2DGUWXR4N:shared_process": [],
-    "2DHF14G5Z:shared_process": [],
-    "2DFZG7M1W:shared_process": [],
-    "2DFSUQDFR:shared_process": [],
-    "2DHCZBCQW:shared_process": [],
-    "2DHUUAZV2:shared_process": [],
-    "2DHEYBWN4:shared_process": [],
-    "2DHXA4N57:shared_process": [],
-    "2DHFQFDGS:shared_process": [],
-    "2DGR1MNX6:shared_process": [],
-    "2DFGVGBT6:shared_process": [],
-    "2DFJUZ6XZ:shared_process": [],
-    "2DH6A9X8X:shared_process": [],
-    "2DHHMZ1MB:shared_process": [],
-    "2DH28ANNK:shared_process": [],
-    "2DFNSY47E:shared_process": [],
-    "2DH9QU4M3:shared_process": [],
-    "2DJG8FV5Z:shared_process": [],
-    "2DJK39H39:shared_process": []
+    "2DFNSG9NA:shared_process": [],
+    "2DFZQQ9EC:shared_process": [],
+    "2DGTGRSKR:shared_process": [],
+    "2DFKG3BY4:shared_process": [],
+    "2DEYAPWGG:shared_process": [],
+    "2DDDPJ4NK:shared_process": [],
+    "2DDT8WB9U:shared_process": [],
+    "2DFT6F66A:shared_process": [],
+    "2DGVZVTC8:shared_process": [],
+    "2DGZBEMR8:shared_process": []
   },
   "config": {},
   "info": {}
